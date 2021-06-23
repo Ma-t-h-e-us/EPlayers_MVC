@@ -1,0 +1,570 @@
+* {  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body { overflow-x: hidden; 
+}
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+.erro{
+    color:#FF0000;
+}
+
+header {
+    background-color: #1E1C21;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    top: 0;
+}
+#diga_nao_a_rolagem {
+    overflow-y: hidden;
+}
+.container_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.sessões_nav_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+}
+.sessões_nav_header a {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFF;
+}
+.container_banner {
+    margin-top: 80px;
+    background-image: url(../midia/Banner.png);
+    display: flex;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100%;
+}
+.liga_eplayers a {
+    margin-top: 1.5vw;
+}
+.sova {
+    margin-left: 1.5vw;
+
+}
+.liga_eplayers {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    
+    color: #FFFFFF;
+}
+.liga_eplayers h1 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 70px;
+}
+.liga_eplayers span {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+}
+.phoenix {
+    margin-right: 4vw;
+}
+.container_jogos {
+    background-color:#000000;
+    height: 90px;
+    display: flex;
+    align-items: center;
+}
+.icones_jogos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.participar_ligas {
+    background-image: url(../midia/Rectangle\ 5.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 499px;
+    position: relative;
+}
+.paralelograma_fundo {
+    width: 100vw;
+    height: 499px;
+}
+.itens_participacao {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0
+}
+.participacao_ligas {
+    color: #FFFFFF;
+}
+.participacao_ligas h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 47px;
+    margin-bottom: 50px;
+}
+.participacao_ligas p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 22px;
+    width: 550px;
+}
+.container_programacão_de_jogos {
+    background-color: #000;
+    height: 90px;
+}
+.elementos_programacao_de_jogos {
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.elementos_programacao_de_jogos span {
+    color: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-transform: uppercase;
+    width: 10px;
+}
+.sequencia_de_jogos {
+    width: 180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sequencia_de_jogos_2 {
+    width: 180px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.partida_borda_esquerda {
+    border-left: 2px solid #FFFFFF;
+    padding-left: 100px;
+}
+.noticias {
+    background-color: #1E1C21;
+}
+.noticias h2 {
+    color: #FFFFFF;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+}
+.titulos_conteudos {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.artigos_e_proximos_jogos {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+.artigos {
+    display: flex;
+    justify-content: space-between;
+    width: 850px;
+    flex-wrap: wrap;
+}
+.artigos article {
+    width: 215px;
+    background: linear-gradient(180deg, #464040 21.39%, #000000 74.93%);
+    margin-top: 40px;
+    filter: drop-shadow(9px 9px 24px #000000);
+}
+.artigos h3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.artigos p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: #FFFFFF;    
+}
+.proximos_jogos_aside {
+    margin-top: 40px;
+    background: linear-gradient(180deg, #000000 0%, #2F2F2F 48.44%, #000000 100%);
+    width: 278px;
+    height: 732px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #FFFFFF;
+}
+.proximos_jogos_aside h3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+}
+.cada_proximo_jogo {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.cada_proximo_jogo span {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.versus {
+    font-weight: bold;
+}
+footer {
+    background-color: black;
+    height: 245px;
+}
+.conteudo_footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.links_e_páginas {
+    display: flex;
+    color: white;
+    width: 350px;
+    justify-content: space-between;
+
+}
+.links_e_páginas h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+}
+.links_e_páginas li {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 7px;
+}
+.links_uteis ul {
+    padding-left: 17px;
+}
+.paginas ul {
+    padding-left: 20px;
+}
+.cadastro_e_redes_sociais {
+    color: white;
+}
+.chamada_do_publico {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+}
+.email_e_cadastro {
+    width: 100%;
+}
+.email_e_cadastro input {
+    width: 14.5vw;
+    height: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+}
+.email_e_cadastro button {
+    background-color: #001F70;
+    height: 40px;
+    width: 9.5vw;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: white;
+}
+.redes_sociais {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+}
+.redes_sociais span {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+/* TELA DE CADASTRO CSS */
+/* TELA DE CADASTRO CSS */
+/* TELA DE CADASTRO CSS */
+
+.banner {
+    background-image: url(../midia/valorant-ep1-ato3-publi.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 370px;
+    border-top: 4px solid #FF0000;
+    border-bottom: 4px solid #FF0000;
+    margin-top: 80px;
+}
+.banner_cadastro_jogador {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(52, 101, 227, 0.63) 0%, rgba(255, 122, 0, 0.63) 100%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: #FFFFFF
+}
+.banner_cadastro_jogador h1 {
+    color: #FFFFFF;
+}
+.conteudo_cadastro_jogador {
+    background-color: #1E1C21;
+    height: 800px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+}
+.cadastro_jogador_inserir_dados {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+    box-shadow: 1px 1px 20px 4px #000000;
+    color: #FFFFFF;
+    width: auto;
+    height: 450px;
+    padding: 35px 70px;
+}
+.cadastro_jogador_inserir_dados h3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    width: 100%;
+}
+.cadastro_jogador_inserir_dados input{
+    width: 400px;
+    margin-bottom: 25px;
+}
+.texto_equipe {
+    margin-top: 15px;
+}
+.lista_de_jogadores {
+    color: #FFFFFF;
+}
+.cadastro_jogador_inserir_dados button{
+    align-items: center;
+}
+.botao_cadastar {
+    background-color: #001F70;
+    height: 40px;
+    width: 9.5vw;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    color: white;
+}
+.lista_de_jogadores {
+    width: 550px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.lista_de_jogadores h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+}
+.tabela_jogadores {
+    width: 100%;
+    margin-top: 40px;
+}
+.nome_e_equipe {
+    background-color: black;
+    border: 2px solid #FFFFFF;
+    padding: 15px 10px;
+}
+.jogadores_e_equipe {
+    border-right: 2px solid #FFFFFF;
+    border-left: 2px solid #FFFFFF;
+    padding: 7.5px 10px;
+}
+.jogadores_e_equipe_de_baixo {
+    border-right: 2px solid #FFFFFF;
+    border-left: 2px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    padding: 7.5px 10px;
+}
+.tabela_jogadores tr {
+    display: flex;
+    justify-content: space-between;
+}
+.lista_de_jogadores th {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+.lista_de_jogadores td {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}
+
+/* TELA CADASTRO DE TIMES */
+/* TELA CADASTRO DE TIMES */
+/* TELA CADASTRO DE TIMES */
+
+.banner_times {
+    background-image: url(../midia/11-11-2019182835737_SENNA-Ecommerce.jpg);
+    background-repeat: no-repeat;
+    background-position-y: -80px;
+    background-size: cover;
+    height: 370px;
+    border-top: 4px solid #3465E3;
+    border-bottom: 4px solid #3465E3;
+    margin-top: 80px;
+}
+.banner_cadastro_times {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(52, 101, 227, 0.63) 0%, rgba(255, 122, 0, 0.63) 100%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    color: #FFFFFF
+}
+.conteudo_cadastro_times {
+    background-color: #1E1C21;
+    height: auto;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-evenly;
+}
+.cadastro_times_inserir_dados {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+    box-shadow: 1px 1px 20px 4px #000000;
+    color: #FFFFFF;
+    width: 513px;
+    height: 335px;
+    padding: 35px 70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.cadastro_times_inserir_dados h3 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    width: 100%;
+}
+.cadastro_times_inserir_dados input{
+    width: 100%;
+    margin-bottom: 25px;
+}
+.lista_de_times {
+    width: 513px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+}
+.lista_de_times h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+}
+.tabela_times {
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.equipe_e_emblema {
+    background-color: black;
+    border: 2px solid #FFFFFF;
+    padding: 15px 10px;
+}
+.nome_equipe_emblema {
+    border-right: 2px solid #FFFFFF;
+    border-left: 2px solid #FFFFFF;
+    padding: 7.5px 10px;
+}
+.nome_equipe_emblema_de_baixo {
+    border-right: 2px solid #FFFFFF;
+    border-left: 2px solid #FFFFFF;
+    border-bottom: 2px solid #FFFFFF;
+    padding: 7.5px 10px;
+}
+.tabela_times tr {
+    display: flex;
+    justify-content: space-between;
+}
+.lista_de_times th {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+.lista_de_times td {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+}

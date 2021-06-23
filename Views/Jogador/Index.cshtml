@@ -1,0 +1,48 @@
+@model Jogador
+@{
+    ViewData["Title"] = "Jogadores";
+}
+<section class="banner" id="tela_cadastro_jogador">
+    <div class="container banner_cadastro_jogador">
+        <h1>Cadastro de Jogador</h1>
+    </div>
+</section>
+
+<section class="conteudo_cadastro_jogador">
+    <form method="POST" action='@Url.Action("Cadastrar")' enctype="multipart/form-data" class="container cadastro_jogador_inserir_dados">
+
+        <label><h3>ID Jogador</h3></label>
+        <input type="text" name="IdJogador">
+        <label><h3>ID Equipe</h3></label>
+        <input type="text" name="IdEquipe">
+        <label><h3>Nome</h3></label>
+        <input type="text" name="Nome">
+        <label><h3>Email</h3></label>
+        <input type="Email" name="Email">
+        <label><h3>Senha</h3></label>
+        <input type="password" name="Senha">
+
+        <button class="botao_cadastar" type="submit">Cadastrar</button>
+    </form>
+
+    <div class="container lista_de_jogadores">
+    <h2>Lista de Jogadores</h2>
+    <table class="tabela_jogadores">
+        <thead class="nome_e_equipe">
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Email</th>
+        </thead>
+        <tbody class="jogadores_e_equipe">
+            @foreach (Jogador j in ViewBag.Jogadores)
+            {
+                <tr>
+                    <td>@j.IdJogador</td>
+                    <td>@j.Nome</td>
+                    <td>@j.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+</section>

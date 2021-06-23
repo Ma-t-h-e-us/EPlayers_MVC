@@ -1,0 +1,74 @@
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\Eplayers_MVC.exe
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\css\eplayers.css
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\css\site.css
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\favicon.ico
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\805441ad255b561c515d5f457f845fb1.jpg
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\avatar-the-last-airbender-cosplayer-brings-the-heat-as-zuko-logo.webp
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\padrao.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\Screenshot_2018-06-03-19-26-55.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\img\Equipes\tenor.gif
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\js\site.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\LICENSE
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\11-11-2019182835737_SENNA-Ecommerce.jpg
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\Banner.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\Cal_Kestis_Render 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\Counter-Strike-Logo 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\f0a24c60e5b899f27b4bca0e1efd36ef 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\facebook 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\FIFA_logo 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\fla-logo 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\formula-1-logo 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\inscreva-se.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\instagram 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\logo (5).svg
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\logo-lol 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\Rectangle 5.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\Rectangle 6.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\Rectangle 8.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\sk-logo 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\Sova_artwork 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\Times.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\valorant-ep1-ato3-publi.jpg
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\valorant-logo 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\WhatsApp_Image_2021-03-11_at_16.28 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\wwwroot\midia\youtube 1.png
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\Eplayers_MVC.dll
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\Eplayers_MVC.deps.json
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\Eplayers_MVC.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\Eplayers_MVC.pdb
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\Eplayers_MVC.Views.dll
+C:\Users\T-Gamer\Desktop\Eplayers_MVC\bin\Debug\net5.0\publish\Eplayers_MVC.Views.pdb
